@@ -1,0 +1,1 @@
+{"data":[{"PU":1000.0,"Data Resgate":"2018\/01\/02 00:00:00.000","Tipo Titulo":"Tesouro Prefixado","Valor":1.92748265E9,"Vencimento do Titulo":"2018\/01\/01 00:00:00.000","Quantidade":1927482.65}]}
